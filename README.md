@@ -1,18 +1,3 @@
-# Welcome to your Lovable project
-
-## Project info
-
-**URL**: https://lovable.dev/projects/d1a683ec-19d1-4f83-9023-f83da4095b65
-
-## How can I edit this code?
-
-There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/d1a683ec-19d1-4f83-9023-f83da4095b65) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,7 +47,7 @@ This project is built with .
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/d1a683ec-19d1-4f83-9023-f83da4095b65) and click on Share -> Publish.
+https://smart-chat-haven.lovable.app/
 
 ## I want to use a custom domain - is that possible?
 
