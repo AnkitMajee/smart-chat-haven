@@ -1,3 +1,9 @@
+## Working of the AI chat assistance?
+![image](https://github.com/user-attachments/assets/0e7d2a3e-9458-4209-85ac-234ca635e3ec)
+##
+![image](https://github.com/user-attachments/assets/c1f0a1a8-3856-4d98-a379-25945b279da0)
+
+
 
 **Use your preferred IDE**
 
